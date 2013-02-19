@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Vince Mobile</name>
+	<name>Security Guard Mobile</name>
 
 	<description>
-		A mobile app for HTS.
+		A mobile app for security guards.
 	</description>
 
 	<author href="https://github.com/scubacoder"
